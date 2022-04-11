@@ -10,7 +10,7 @@ body {background-color:black;font-size:15px;color:white;}
 #headerBlock .navigation ul li {display:inline;list-style-type:none;font-size:20px;}
 #headerBlock .navigation ul li::after {content:'|';margin:20px;}
 #headerBlock .navigation ul li:last-child::after {display:none;}
-#headerBlock .navigation ul li a {text-decoration:none;color:white;text-transform:uppercase;}
+#headerBlock .navigation ul li a {text-decoration:none;color:white;text-transform:uppercase;transition: all 0.7s;}
 
 #headerBlock .navigation ul li a:hover {color:grey;}
 #headerBlock .navigation ul li:nth-of-type(2) a:hover {color:#ff8800;}
