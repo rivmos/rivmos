@@ -1,3 +1,3 @@
 - Hi I'm rivmos
 - I love working with new tech tools and to be specific i love JS and Music
-- I am currently learning JS (as of 16 Feb 2022)
+- Life long learner
