@@ -1,3 +1,3 @@
-- Hi I'm rivmos
+- Hi I'm Somvir aka rivmos
 - I love working with new tech tools and to be specific i love JS and Music
 - Life long learner
