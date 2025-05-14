@@ -2,4 +2,4 @@
 - 👨‍💻 React, React Native, TypeScript, Node.js, PostgreSQL, Prisma, Docker.
 - 🎯 Currently mastering: Rust, Fabric.js, OOP, and system architecture.
 - 🧠 Exploring: real-time sync, voice interfaces, and infinite canvas design.
--📍 Always shipping. Always learning.
+- 📍 Always shipping. Always learning.
