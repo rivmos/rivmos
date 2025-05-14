@@ -1,3 +1,5 @@
-- Hi I'm Somvir aka rivmos
-- I love working with new tech tools and to be specific i love JS and Music
-- Life long learner
+🚀 Building AI-powered apps, multi-tenant SaaS platforms, and next-gen design tools.
+👨‍💻 React, React Native, TypeScript, Node.js, PostgreSQL, Prisma, Docker.
+🎯 Currently mastering: Rust, Fabric.js, OOP, and system architecture.
+🧠 Exploring: real-time sync, voice interfaces, and infinite canvas design.
+📍 Always shipping. Always learning.
