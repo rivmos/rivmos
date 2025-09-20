@@ -1,5 +1,5 @@
-- 🚀 Building AI-powered apps, multi-tenant SaaS platforms, and next-gen design tools.
-- 👨‍💻 React, React Native, TypeScript, Node.js, PostgreSQL, Prisma, Docker.
-- 🎯 Currently mastering: Rust, Fabric.js, OOP, and system architecture.
-- 🧠 Exploring: real-time sync, voice interfaces, and infinite canvas design.
-- 📍 Always shipping. Always learning.
+- Building apps that real people use.
+- Currently working on: App that 3000 people will use monthly.
+- Currently mastering: Fabric.js, OOPs,Cyber Security and system architecture.
+- Exploring: real-time sync, voice interfaces, and infinite canvas design.
+- Always shipping. Always learning.
